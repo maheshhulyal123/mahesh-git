@@ -1,3 +1,6 @@
 hello world i am mahesh
+<<<<<<< HEAD
 i seconf line
 
+=======
+>>>>>>> student
